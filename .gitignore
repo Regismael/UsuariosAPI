@@ -1,0 +1,67 @@
+# Ignore arquivos de sistema operacionais
+.DS_Store
+Thumbs.db
+
+# Ignore arquivos e diretórios de compilação
+/build
+/dist
+*.class
+*.war
+*.jar
+
+# Ignore diretórios de dependências
+/node_modules
+/vendor
+
+# Ignore arquivos de log
+*.log
+
+# Ignore arquivos temporários
+*.tmp
+*.swp
+*.swo
+
+# Ignore arquivos de IDEs
+/.idea
+*.iml
+*.ipr
+*.iws
+.vscode/
+
+# Ignore configurações locais
+.env
+*.local
+
+# Ignore caches
+.cache
+.terraform
+.pip
+__pycache__/
+
+# Ignore arquivos específicos de linguagens de programação
+# Python
+*.pyc
+*.pyo
+
+# Node.js
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+
+# Ruby
+*.gem
+/log
+/tmp
+
+# PHP
+/vendor/
+composer.lock
+
+# Outros
+*.bak

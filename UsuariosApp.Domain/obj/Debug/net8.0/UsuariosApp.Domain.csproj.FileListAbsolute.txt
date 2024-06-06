@@ -1,0 +1,11 @@
+C:\aulascsharp\UsuariosApp\UsuariosApp.Domain\obj\Debug\net8.0\UsuariosApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\aulascsharp\UsuariosApp\UsuariosApp.Domain\obj\Debug\net8.0\UsuariosApp.Domain.AssemblyInfoInputs.cache
+C:\aulascsharp\UsuariosApp\UsuariosApp.Domain\obj\Debug\net8.0\UsuariosApp.Domain.AssemblyInfo.cs
+C:\aulascsharp\UsuariosApp\UsuariosApp.Domain\obj\Debug\net8.0\UsuariosApp.Domain.csproj.CoreCompileInputs.cache
+C:\aulascsharp\UsuariosApp\UsuariosApp.Domain\bin\Debug\net8.0\UsuariosApp.Domain.deps.json
+C:\aulascsharp\UsuariosApp\UsuariosApp.Domain\bin\Debug\net8.0\UsuariosApp.Domain.dll
+C:\aulascsharp\UsuariosApp\UsuariosApp.Domain\bin\Debug\net8.0\UsuariosApp.Domain.pdb
+C:\aulascsharp\UsuariosApp\UsuariosApp.Domain\obj\Debug\net8.0\UsuariosApp.Domain.dll
+C:\aulascsharp\UsuariosApp\UsuariosApp.Domain\obj\Debug\net8.0\refint\UsuariosApp.Domain.dll
+C:\aulascsharp\UsuariosApp\UsuariosApp.Domain\obj\Debug\net8.0\UsuariosApp.Domain.pdb
+C:\aulascsharp\UsuariosApp\UsuariosApp.Domain\obj\Debug\net8.0\ref\UsuariosApp.Domain.dll

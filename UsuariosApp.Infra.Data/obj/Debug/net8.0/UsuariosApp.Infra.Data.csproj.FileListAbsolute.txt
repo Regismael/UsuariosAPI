@@ -1,0 +1,15 @@
+C:\aulascsharp\UsuariosApp\UsuariosApp.Infra.Data\obj\Debug\net8.0\UsuariosApp.Infra.Data.csproj.AssemblyReference.cache
+C:\aulascsharp\UsuariosApp\UsuariosApp.Infra.Data\obj\Debug\net8.0\UsuariosApp.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\aulascsharp\UsuariosApp\UsuariosApp.Infra.Data\obj\Debug\net8.0\UsuariosApp.Infra.Data.AssemblyInfoInputs.cache
+C:\aulascsharp\UsuariosApp\UsuariosApp.Infra.Data\obj\Debug\net8.0\UsuariosApp.Infra.Data.AssemblyInfo.cs
+C:\aulascsharp\UsuariosApp\UsuariosApp.Infra.Data\obj\Debug\net8.0\UsuariosApp.Infra.Data.csproj.CoreCompileInputs.cache
+C:\aulascsharp\UsuariosApp\UsuariosApp.Infra.Data\bin\Debug\net8.0\UsuariosApp.Infra.Data.deps.json
+C:\aulascsharp\UsuariosApp\UsuariosApp.Infra.Data\bin\Debug\net8.0\UsuariosApp.Infra.Data.dll
+C:\aulascsharp\UsuariosApp\UsuariosApp.Infra.Data\bin\Debug\net8.0\UsuariosApp.Infra.Data.pdb
+C:\aulascsharp\UsuariosApp\UsuariosApp.Infra.Data\bin\Debug\net8.0\UsuariosApp.Domain.dll
+C:\aulascsharp\UsuariosApp\UsuariosApp.Infra.Data\bin\Debug\net8.0\UsuariosApp.Domain.pdb
+C:\aulascsharp\UsuariosApp\UsuariosApp.Infra.Data\obj\Debug\net8.0\Usuarios.80BFA378.Up2Date
+C:\aulascsharp\UsuariosApp\UsuariosApp.Infra.Data\obj\Debug\net8.0\UsuariosApp.Infra.Data.dll
+C:\aulascsharp\UsuariosApp\UsuariosApp.Infra.Data\obj\Debug\net8.0\refint\UsuariosApp.Infra.Data.dll
+C:\aulascsharp\UsuariosApp\UsuariosApp.Infra.Data\obj\Debug\net8.0\UsuariosApp.Infra.Data.pdb
+C:\aulascsharp\UsuariosApp\UsuariosApp.Infra.Data\obj\Debug\net8.0\ref\UsuariosApp.Infra.Data.dll

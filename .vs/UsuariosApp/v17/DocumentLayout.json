@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\aulascsharp\\UsuariosApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7C783523-4A85-4850-8C85-344423777029}|UsuariosApp.API\\UsuariosApp.API.csproj|c:\\aulascsharp\\usuariosapp\\usuariosapp.api\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C783523-4A85-4850-8C85-344423777029}|UsuariosApp.API\\UsuariosApp.API.csproj|solutionrelative:usuariosapp.api\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE57D1D7-3285-428C-BBDE-57D4739C68AF}|UsuariosApp.Domain\\UsuariosApp.Domain.csproj|c:\\aulascsharp\\usuariosapp\\usuariosapp.domain\\services\\usuariodomainservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE57D1D7-3285-428C-BBDE-57D4739C68AF}|UsuariosApp.Domain\\UsuariosApp.Domain.csproj|solutionrelative:usuariosapp.domain\\services\\usuariodomainservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE57D1D7-3285-428C-BBDE-57D4739C68AF}|UsuariosApp.Domain\\UsuariosApp.Domain.csproj|c:\\aulascsharp\\usuariosapp\\usuariosapp.domain\\interfaces\\services\\iusuariodomainservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE57D1D7-3285-428C-BBDE-57D4739C68AF}|UsuariosApp.Domain\\UsuariosApp.Domain.csproj|solutionrelative:usuariosapp.domain\\interfaces\\services\\iusuariodomainservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsuarioDomainService.cs",
+              "DocumentMoniker": "C:\\aulascsharp\\UsuariosApp\\UsuariosApp.Domain\\Services\\UsuarioDomainService.cs",
+              "RelativeDocumentMoniker": "UsuariosApp.Domain\\Services\\UsuarioDomainService.cs",
+              "ToolTip": "C:\\aulascsharp\\UsuariosApp\\UsuariosApp.Domain\\Services\\UsuarioDomainService.cs",
+              "RelativeToolTip": "UsuariosApp.Domain\\Services\\UsuarioDomainService.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACgAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T20:18:19.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsuariosController.cs",
+              "DocumentMoniker": "C:\\aulascsharp\\UsuariosApp\\UsuariosApp.API\\Controllers\\UsuariosController.cs",
+              "RelativeDocumentMoniker": "UsuariosApp.API\\Controllers\\UsuariosController.cs",
+              "ToolTip": "C:\\aulascsharp\\UsuariosApp\\UsuariosApp.API\\Controllers\\UsuariosController.cs",
+              "RelativeToolTip": "UsuariosApp.API\\Controllers\\UsuariosController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwBUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T20:12:42.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IUsuarioDomainService.cs",
+              "DocumentMoniker": "C:\\aulascsharp\\UsuariosApp\\UsuariosApp.Domain\\Interfaces\\Services\\IUsuarioDomainService.cs",
+              "RelativeDocumentMoniker": "UsuariosApp.Domain\\Interfaces\\Services\\IUsuarioDomainService.cs",
+              "ToolTip": "C:\\aulascsharp\\UsuariosApp\\UsuariosApp.Domain\\Interfaces\\Services\\IUsuarioDomainService.cs",
+              "RelativeToolTip": "UsuariosApp.Domain\\Interfaces\\Services\\IUsuarioDomainService.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAgwBQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T17:17:40.133Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
